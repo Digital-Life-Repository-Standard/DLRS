@@ -188,6 +188,8 @@ python tools/validate_repo.py
 - 📖 [Getting Started Guide](docs/getting-started.en.md)
 - 🤔 [FAQ](docs/FAQ.en.md)
 - 🏗️ [Architecture](docs/architecture.md)
+- 🗺️ [Visual Diagrams](docs/diagrams/)
+- 🗺️ [Visual Diagrams](docs/diagrams/)
 - 📋 [RFC: DLRS v0.2](docs/community/RFC-DLRS-v0.2.md)
 - 💬 [Consent Model Feedback](docs/community/consent-model-feedback.md)
 - 🎯 [Good First Issues](docs/community/good-first-issues.md)
