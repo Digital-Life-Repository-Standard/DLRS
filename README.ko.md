@@ -18,7 +18,7 @@
 [![i18n](https://img.shields.io/badge/i18n-2%20languages-blue.svg)](https://github.com/Digital-Life-Repository-Standard/DLRS/tree/master/docs/i18n)
 [![RFC](https://img.shields.io/badge/RFC-Open%20for%20Comment-green.svg)](https://github.com/Digital-Life-Repository-Standard/DLRS/blob/master/docs/community/RFC-DLRS-v0.2.md)
 
-**Languages:** English | [简体中文](https://github.com/Digital-Life-Repository-Standard/DLRS/blob/master/README.md)
+**Languages:** English | [简体中文](https://github.com/Digital-Life-Repository-Standard/DLRS/blob/master/README.md) | [한국어](https://github.com/Digital-Life-Repository-Standard/DLRS/blob/master/README.ko.md)
 
 </div>
 
